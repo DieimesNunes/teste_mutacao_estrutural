@@ -1,7 +1,4 @@
-# Prática 01 - Teste Estrutural e Teste de Mutação
-
-Aluno: Dieimes Nunes de Souza  
-RA: 02848244  
+# Teste Estrutural e Teste de Mutação
 
 Este repositório contém o projeto utilizado para a realização da Prática 01, envolvendo teste baseado em especificação, teste estrutural com MC/DC, cobertura com JaCoCo e teste de mutação com PIT.
 
