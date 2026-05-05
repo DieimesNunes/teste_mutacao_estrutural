@@ -1,0 +1,27 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos compilados Java
+*.class
+
+# Relatórios e arquivos temporários
+*.log
+*.tmp
+*.exec
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos do IntelliJ/Eclipse
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos HTML gerados manualmente
+Pratica_01.html
